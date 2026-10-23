@@ -1,0 +1,14 @@
+There are 1 words of length 2
+There are 7 words of length 126
+There are 4 words of length 239
+There are 5 words of length 188
+There are 6 words of length 157
+There are 9 words of length 41
+There are 3 words of length 101
+There are 8 words of length 78
+There are 14 words of length 2
+There are 2 words of length 26
+There are 10 words of length 24
+There are 11 words of length 10
+There are 13 words of length 2
+There are 12 words of length 4
